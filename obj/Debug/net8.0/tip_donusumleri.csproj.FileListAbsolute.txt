@@ -1,0 +1,15 @@
+C:\Users\haslan\Documents\GitHub\tip_donusumleri\bin\Debug\net8.0\tip_donusumleri.exe
+C:\Users\haslan\Documents\GitHub\tip_donusumleri\bin\Debug\net8.0\tip_donusumleri.deps.json
+C:\Users\haslan\Documents\GitHub\tip_donusumleri\bin\Debug\net8.0\tip_donusumleri.runtimeconfig.json
+C:\Users\haslan\Documents\GitHub\tip_donusumleri\bin\Debug\net8.0\tip_donusumleri.dll
+C:\Users\haslan\Documents\GitHub\tip_donusumleri\bin\Debug\net8.0\tip_donusumleri.pdb
+C:\Users\haslan\Documents\GitHub\tip_donusumleri\obj\Debug\net8.0\tip_donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haslan\Documents\GitHub\tip_donusumleri\obj\Debug\net8.0\tip_donusumleri.AssemblyInfoInputs.cache
+C:\Users\haslan\Documents\GitHub\tip_donusumleri\obj\Debug\net8.0\tip_donusumleri.AssemblyInfo.cs
+C:\Users\haslan\Documents\GitHub\tip_donusumleri\obj\Debug\net8.0\tip_donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\haslan\Documents\GitHub\tip_donusumleri\obj\Debug\net8.0\tip_donusumleri.sourcelink.json
+C:\Users\haslan\Documents\GitHub\tip_donusumleri\obj\Debug\net8.0\tip_donusumleri.dll
+C:\Users\haslan\Documents\GitHub\tip_donusumleri\obj\Debug\net8.0\refint\tip_donusumleri.dll
+C:\Users\haslan\Documents\GitHub\tip_donusumleri\obj\Debug\net8.0\tip_donusumleri.pdb
+C:\Users\haslan\Documents\GitHub\tip_donusumleri\obj\Debug\net8.0\tip_donusumleri.genruntimeconfig.cache
+C:\Users\haslan\Documents\GitHub\tip_donusumleri\obj\Debug\net8.0\ref\tip_donusumleri.dll
